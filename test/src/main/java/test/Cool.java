@@ -4,7 +4,7 @@ public class Cool {
 
 	public static void main(String[] args) {
 		
-		System.out.println("cool world  Enjoy__________pull_00 ");
+		System.out.println("cool world  Enjoy__________pull_00_huyyufyufyu ");
 	}
 	
 }
